@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I'm currently attending a Flow cytometry course and how to use R
 <!--
 **beamanzan/beamanzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
